@@ -2,9 +2,10 @@
     background-color: black;
     width: 1000px;
     height: 1000px;
-    flex-direction: column;
-    
+    flex-direction: column;  
 }
+
+p{margin: 1px;}
 .blanco{
     width: 375px;
     height: 800px;
@@ -14,7 +15,6 @@ padding: 100px;
 .titulo{display: flex;
     background-color: white;
 width: 375px;
-height: 50px;
 }
 
 .puntos{margin-left: auto;}

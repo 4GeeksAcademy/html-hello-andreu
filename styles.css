@@ -1,0 +1,33 @@
+.negro{
+    background-color: black;
+    width: 1000px;
+    height: 1000px;
+    flex-direction: column;
+    
+}
+.blanco{
+    width: 375px;
+    height: 800px;
+margin: auto;
+padding: 100px;
+}
+.titulo{display: flex;
+    background-color: white;
+width: 375px;
+height: 50px;
+}
+
+.puntos{margin-left: auto;}
+
+ .imagen {
+    width: 500px;
+    height: 500px;
+display: block;}
+ 
+.iconos {display: flex;
+    background-color: white;}
+
+.guardar {margin-left: auto;}
+
+.texto{ background-color: white;
+padding-top: 1%;}

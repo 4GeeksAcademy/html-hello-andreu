@@ -5,6 +5,11 @@
     flex-direction: column;  
 }
 
+#simbolo1, #simbolo2, #simbolo3, #simbolo4, #simbolo5, #simbolo6{
+    font-size: 30px;
+    line-height: 1.2;
+}
+
 p{margin: 1px;}
 .blanco{
     width: 375px;
